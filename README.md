@@ -1,3 +1,11 @@
+#  Windows Event Log Analysis
+
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![SOC](https://img.shields.io/badge/Domain-SOC%20Analysis-red)
+![Security](https://img.shields.io/badge/Security-Event%20Logs-green)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Windows Event Log Analysis
 
 ##  Project Overview

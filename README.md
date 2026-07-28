@@ -179,3 +179,8 @@ Generated when a user is added to a local security-enabled group.
 | 4688     | Command and Scripting Interpreter (T1059) |
 | 4732     | Account Manipulation (T1098)              |
 
+---
+
+## Conclusion
+
+This project demonstrates practical experience in Windows Security Event Log analysis. It covers authentication monitoring, privilege usage, failed logon investigations, and process creation analysis, providing foundational skills required for SOC Analyst and Blue Team roles.

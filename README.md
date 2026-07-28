@@ -8,7 +8,7 @@ The objective is to understand how SOC Analysts investigate authentication event
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze Windows Security Logs
 - Identify important Security Event IDs
@@ -20,7 +20,7 @@ The objective is to understand how SOC Analysts investigate authentication event
 
 ---
 
-## 🛠️ Lab Environment
+##  Lab Environment
 
 - Windows 11
 - Event Viewer
@@ -29,7 +29,7 @@ The objective is to understand how SOC Analysts investigate authentication event
 
 ---
 
-## 📂 Event IDs Covered
+##  Event IDs Covered
 
 | Event ID | Description |
 |----------|-------------|
@@ -41,7 +41,7 @@ The objective is to understand how SOC Analysts investigate authentication event
 
 ---
 
-# 🔹 Event ID 4624 – Successful Logon
+#  Event ID 4624 – Successful Logon
 
 ### Description
 
@@ -60,7 +60,7 @@ Generated whenever a user successfully authenticates to Windows.
 
 ---
 
-# 🔹 Event ID 4625 – Failed Logon
+#  Event ID 4625 – Failed Logon
 
 ### Description
 
@@ -78,7 +78,7 @@ Generated whenever a login attempt fails.
 
 ---
 
-# 🔹 Event ID 4672 – Special Logon
+#  Event ID 4672 – Special Logon
 
 ### Description
 
@@ -96,7 +96,7 @@ Generated when privileged accounts receive administrator-level privileges.
 
 ---
 
-# 🔹 Event ID 4688 – Process Creation
+#  Event ID 4688 – Process Creation
 
 ### Description
 
@@ -115,7 +115,7 @@ Generated whenever a new process starts.
 
 ---
 
-# 🔹 Event ID 4732 – User Added to Local Group
+#  Event ID 4732 – User Added to Local Group
 
 ### Description
 
@@ -133,7 +133,7 @@ Generated when a user is added to a local security-enabled group.
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Windows Event Viewer
 - Windows Security Logs
@@ -146,7 +146,7 @@ Generated when a user is added to a local security-enabled group.
 
 ---
 
-## 📚 References
+##  References
 
 - Microsoft Event Documentation
 - MITRE ATT&CK Framework

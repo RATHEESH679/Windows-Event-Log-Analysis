@@ -158,3 +158,24 @@ Generated when a user is added to a local security-enabled group.
 
 - Microsoft Event Documentation
 - MITRE ATT&CK Framework
+
+---
+
+| Event ID | Severity | Purpose                   |
+| -------- | -------- | ------------------------- |
+| 4624     | Low      | Successful Authentication |
+| 4625     | Medium   | Failed Authentication     |
+| 4672     | High     | Privileged Logon          |
+| 4688     | High     | Process Creation          |
+| 4732     | Critical | Privilege Escalation      |
+
+---
+
+| Event ID | ATT&CK Technique                          |
+| -------- | ----------------------------------------- |
+| 4624     | Valid Accounts (T1078)                    |
+| 4625     | Brute Force (T1110)                       |
+| 4672     | Privilege Escalation                      |
+| 4688     | Command and Scripting Interpreter (T1059) |
+| 4732     | Account Manipulation (T1098)              |
+

@@ -1,4 +1,4 @@
-# Lab 1 - Windows Authentication Event Analysis
+# Lab01-Windows-Authentication-Event-Analysis.md
 
 ## Objective
 

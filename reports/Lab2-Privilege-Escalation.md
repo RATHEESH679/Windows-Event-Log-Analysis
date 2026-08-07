@@ -1,4 +1,4 @@
-# Lab 2 - Windows Privilege Escalation Detection
+# Lab 02-Account-Management-Events.md
 
 ## Objective
 
